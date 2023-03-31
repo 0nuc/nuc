@@ -15,6 +15,4 @@ I'm currently working on Schneider Electric Company <br>I learn how to make web 
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hwa sa blade&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
