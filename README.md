@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Schneider Electric Company <br>I learn how to make web site and app with react / three.js / html / css /js
+Hwasablade is my username is not my real name xd <br>I learn how to make web site and app with react / three.js / html / css /js
 
 
 ## 🌐 Socials:
